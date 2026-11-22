@@ -56,6 +56,3 @@ const total = (...nums) => {
 console.log(total(10, 20, 30));
 console.log(total(...points));
 console.log(Math.max(...points));
-
-
-axali proeqtia? ki davaleba s age es gavakete ukve
